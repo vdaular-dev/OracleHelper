@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleHelper", "OracleHelper\OracleHelper.csproj", "{F4B84BC7-E507-4042-9A05-1530D6109E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleHelper.Tests", "OracleHelper.Tests\OracleHelper.Tests.csproj", "{181C0372-6023-4F78-A4C2-87674EAF5A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B84BC7-E507-4042-9A05-1530D6109E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B84BC7-E507-4042-9A05-1530D6109E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B84BC7-E507-4042-9A05-1530D6109E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B84BC7-E507-4042-9A05-1530D6109E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181C0372-6023-4F78-A4C2-87674EAF5A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181C0372-6023-4F78-A4C2-87674EAF5A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181C0372-6023-4F78-A4C2-87674EAF5A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181C0372-6023-4F78-A4C2-87674EAF5A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAE8C0A8-4C75-4781-94BD-4C95DF478F30}
+	EndGlobalSection
+EndGlobal
